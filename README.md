@@ -32,6 +32,7 @@ Tela de inserção, edição e exclusão de produtos: possibilita a manipulaçã
 
 ## Resultado
 
+<img src="home.jpg" width="50" height="50">
 
 ![Tela Home](home.jpg)
 ## Tela Inicial
