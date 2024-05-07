@@ -33,29 +33,24 @@ Tela de inserção, edição e exclusão de produtos: possibilita a manipulaçã
 ## Resultado
 
 <img src="home.jpg" width="250" height="500">
-
-![Tela Home](home.jpg)
 ## Tela Inicial
 
-![Tela Cadastro de Loja](qrpermission.jpg)
-## Tela Cadastro de Loja
-
-![Tela Consulta Loja](qrpermission.jpg)
+<img src="qrpermission.jpg" width="250" height="500">
 ## Tela QR permissao
 
-![Tela Cadastro de Produto](qr.jpg)
+<img src="qr.jpg" width="250" height="500">
 ## Tela QR liberada
 
-![Tela Consulta de Produto](insert.jpg)
+<img src="insert.jpg" width="250" height="500">
 ## Tela Inserir/Editar/Ecluir
 
-![Tela Cadastro de Fornecedor](produtos.jpg)
+<img src="produtos.jpg" width="250" height="500">
 ## Tela Exibicao
 
-![Tela Consulta de Fornecedor](qrread.jpg)
+<img src="qrread.jpg" width="250" height="500">
 ## Tela Leitura
 
-![Tela Cadastro de Pedido](excluir.jpg)
+<img src="excluir.jpg" width="250" height="500">
 ## Tela Excluir
 
 ## Conclusão
